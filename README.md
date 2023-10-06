@@ -10,7 +10,7 @@ to withdraw money,deposit.
 
 use case
 
-![UseCaseDiagram1](https://github.com/maha712/LAB-1-ATM/assets/121156360/eea70cae-496c-4a22-8454-711f95d78efa)
+![UseCaseDiagram1 SE](https://github.com/maha712/LAB-1-ATM/assets/121156360/7cdcb3c0-ba96-4fd8-a9f8-6306b4d1c885)
 
 class diagram
 
